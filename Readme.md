@@ -1,3 +1,3 @@
-# Shareme Social Media Application
+# Share-Me Social Media Application
 + This is a image sharing social media application
-+ [Share_Me](https://sharemeclone.netlify.app/)
++ [Share-Me](https://sharemeclone.netlify.app/)
